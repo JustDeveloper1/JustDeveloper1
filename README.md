@@ -6,7 +6,7 @@
   <img align="center" src="https://wakatime.com/badge/user/1ae23abd-8d89-4339-b310-a5d8e9700b21.svg?style=flat&color=6e3bf3" alt="wakatime" />
 </a>
 <a href="https://justdeveloper.is-a.dev/">
-  <img align="center" src="https://api.statusbadges.me/badge/status/1117482901353812088?simple=true&color=6e3bf3" alt="status">
+  <img align="center" src="https://api.statusbadges.me/badge/status/1117482901353812088?color=6e3bf3" alt="status">
 </a>
 <a href="https://juststudio.is-a.dev/r/discord">
   <img align="center" src="https://img.shields.io/discord/1117516271437758564?label=JustStudio.&logo=discord&logoColor=fafafa&style=flat&color=6e3bf3" alt="status">
